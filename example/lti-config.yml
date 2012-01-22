@@ -1,0 +1,12 @@
+--- 
+:lti_bundle_identifier: BLTI001_Bundle
+:lti_title: My AWESOME LTI app
+:lti_bundle_icon: BLTI001_Icon
+:lti_description: Example LTI-enabled tool
+:lti_options: 
+  :resource_selection: 
+    :url: http://localhost:4567/launch
+:lti_extensions_platform: canvas.instructure.com
+:lti_privacy_level: name_only
+:lti_domain: localhost
+:lti_launch_url: http://localhost:4567/launch
